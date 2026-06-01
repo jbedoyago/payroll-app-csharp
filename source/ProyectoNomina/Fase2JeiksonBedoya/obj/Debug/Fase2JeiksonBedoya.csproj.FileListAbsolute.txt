@@ -1,0 +1,39 @@
+C:\Users\bedoy\OneDrive\Documentos\PROGRAMACION\Fase2JeiksonBedoya\bin\Debug\Fase2JeiksonBedoya.exe.config
+C:\Users\bedoy\OneDrive\Documentos\PROGRAMACION\Fase2JeiksonBedoya\bin\Debug\Fase2JeiksonBedoya.exe
+C:\Users\bedoy\OneDrive\Documentos\PROGRAMACION\Fase2JeiksonBedoya\bin\Debug\Fase2JeiksonBedoya.pdb
+C:\Users\bedoy\OneDrive\Documentos\PROGRAMACION\Fase2JeiksonBedoya\obj\Debug\Fase2JeiksonBedoya.csproj.AssemblyReference.cache
+C:\Users\bedoy\OneDrive\Documentos\PROGRAMACION\Fase2JeiksonBedoya\obj\Debug\Fase2JeiksonBedoya.csproj.SuggestedBindingRedirects.cache
+C:\Users\bedoy\OneDrive\Documentos\PROGRAMACION\Fase2JeiksonBedoya\obj\Debug\Fase2JeiksonBedoya.Properties.Resources.resources
+C:\Users\bedoy\OneDrive\Documentos\PROGRAMACION\Fase2JeiksonBedoya\obj\Debug\Fase2JeiksonBedoya.csproj.GenerateResource.cache
+C:\Users\bedoy\OneDrive\Documentos\PROGRAMACION\Fase2JeiksonBedoya\obj\Debug\Fase2JeiksonBedoya.csproj.CoreCompileInputs.cache
+C:\Users\bedoy\OneDrive\Documentos\PROGRAMACION\Fase2JeiksonBedoya\obj\Debug\Fase2JeiksonBedoya.exe
+C:\Users\bedoy\OneDrive\Documentos\PROGRAMACION\Fase2JeiksonBedoya\obj\Debug\Fase2JeiksonBedoya.pdb
+C:\Users\bedoy\OneDrive\Documentos\PROGRAMACION\Fase2JeiksonBedoya\obj\Debug\Fase2JeiksonBedoya.IngresoDeDatos.resources
+C:\Users\bedoy\OneDrive\Documentos\PROGRAMACION\Fase2JeiksonBedoya\obj\Debug\Fase2JeiksonBedoya.Reporte.resources
+C:\Users\bedoy\OneDrive\Documentos\PROGRAMACION\Fase2JeiksonBedoya\obj\Debug\Fase2JeiksonBedoya.ReporteValorDePago.resources
+C:\Users\bedoy\OneDrive\Documentos\UNAD ESTRUCTURAS DE DATOS\Fase2JeiksonBedoya\Fase2JeiksonBedoya\bin\Debug\Fase2JeiksonBedoya.exe.config
+C:\Users\bedoy\OneDrive\Documentos\UNAD ESTRUCTURAS DE DATOS\Fase2JeiksonBedoya\Fase2JeiksonBedoya\bin\Debug\Fase2JeiksonBedoya.exe
+C:\Users\bedoy\OneDrive\Documentos\UNAD ESTRUCTURAS DE DATOS\Fase2JeiksonBedoya\Fase2JeiksonBedoya\bin\Debug\Fase2JeiksonBedoya.pdb
+C:\Users\bedoy\OneDrive\Documentos\UNAD ESTRUCTURAS DE DATOS\Fase2JeiksonBedoya\Fase2JeiksonBedoya\obj\Debug\Fase2JeiksonBedoya.csproj.AssemblyReference.cache
+C:\Users\bedoy\OneDrive\Documentos\UNAD ESTRUCTURAS DE DATOS\Fase2JeiksonBedoya\Fase2JeiksonBedoya\obj\Debug\Fase2JeiksonBedoya.csproj.SuggestedBindingRedirects.cache
+C:\Users\bedoy\OneDrive\Documentos\UNAD ESTRUCTURAS DE DATOS\Fase2JeiksonBedoya\Fase2JeiksonBedoya\obj\Debug\Fase2JeiksonBedoya.IngresoDeDatos.resources
+C:\Users\bedoy\OneDrive\Documentos\UNAD ESTRUCTURAS DE DATOS\Fase2JeiksonBedoya\Fase2JeiksonBedoya\obj\Debug\Fase2JeiksonBedoya.Reporte.resources
+C:\Users\bedoy\OneDrive\Documentos\UNAD ESTRUCTURAS DE DATOS\Fase2JeiksonBedoya\Fase2JeiksonBedoya\obj\Debug\Fase2JeiksonBedoya.ReporteValorDePago.resources
+C:\Users\bedoy\OneDrive\Documentos\UNAD ESTRUCTURAS DE DATOS\Fase2JeiksonBedoya\Fase2JeiksonBedoya\obj\Debug\Fase2JeiksonBedoya.Properties.Resources.resources
+C:\Users\bedoy\OneDrive\Documentos\UNAD ESTRUCTURAS DE DATOS\Fase2JeiksonBedoya\Fase2JeiksonBedoya\obj\Debug\Fase2JeiksonBedoya.csproj.GenerateResource.cache
+C:\Users\bedoy\OneDrive\Documentos\UNAD ESTRUCTURAS DE DATOS\Fase2JeiksonBedoya\Fase2JeiksonBedoya\obj\Debug\Fase2JeiksonBedoya.csproj.CoreCompileInputs.cache
+C:\Users\bedoy\OneDrive\Documentos\UNAD ESTRUCTURAS DE DATOS\Fase2JeiksonBedoya\Fase2JeiksonBedoya\obj\Debug\Fase2JeiksonBedoya.exe
+C:\Users\bedoy\OneDrive\Documentos\UNAD ESTRUCTURAS DE DATOS\Fase2JeiksonBedoya\Fase2JeiksonBedoya\obj\Debug\Fase2JeiksonBedoya.pdb
+C:\Users\bedoy\OneDrive\Documentos\UNAD\UNAD SEMESTRE 5\UNAD ESTRUCTURAS DE DATOS\Fase2JeiksonBedoya\Fase2JeiksonBedoya\Fase2JeiksonBedoya\bin\Debug\Fase2JeiksonBedoya.exe.config
+C:\Users\bedoy\OneDrive\Documentos\UNAD\UNAD SEMESTRE 5\UNAD ESTRUCTURAS DE DATOS\Fase2JeiksonBedoya\Fase2JeiksonBedoya\Fase2JeiksonBedoya\bin\Debug\Fase2JeiksonBedoya.exe
+C:\Users\bedoy\OneDrive\Documentos\UNAD\UNAD SEMESTRE 5\UNAD ESTRUCTURAS DE DATOS\Fase2JeiksonBedoya\Fase2JeiksonBedoya\Fase2JeiksonBedoya\bin\Debug\Fase2JeiksonBedoya.pdb
+C:\Users\bedoy\OneDrive\Documentos\UNAD\UNAD SEMESTRE 5\UNAD ESTRUCTURAS DE DATOS\Fase2JeiksonBedoya\Fase2JeiksonBedoya\Fase2JeiksonBedoya\obj\Debug\Fase2JeiksonBedoya.csproj.AssemblyReference.cache
+C:\Users\bedoy\OneDrive\Documentos\UNAD\UNAD SEMESTRE 5\UNAD ESTRUCTURAS DE DATOS\Fase2JeiksonBedoya\Fase2JeiksonBedoya\Fase2JeiksonBedoya\obj\Debug\Fase2JeiksonBedoya.csproj.SuggestedBindingRedirects.cache
+C:\Users\bedoy\OneDrive\Documentos\UNAD\UNAD SEMESTRE 5\UNAD ESTRUCTURAS DE DATOS\Fase2JeiksonBedoya\Fase2JeiksonBedoya\Fase2JeiksonBedoya\obj\Debug\Fase2JeiksonBedoya.IngresoDeDatos.resources
+C:\Users\bedoy\OneDrive\Documentos\UNAD\UNAD SEMESTRE 5\UNAD ESTRUCTURAS DE DATOS\Fase2JeiksonBedoya\Fase2JeiksonBedoya\Fase2JeiksonBedoya\obj\Debug\Fase2JeiksonBedoya.Reporte.resources
+C:\Users\bedoy\OneDrive\Documentos\UNAD\UNAD SEMESTRE 5\UNAD ESTRUCTURAS DE DATOS\Fase2JeiksonBedoya\Fase2JeiksonBedoya\Fase2JeiksonBedoya\obj\Debug\Fase2JeiksonBedoya.ReporteValorDePago.resources
+C:\Users\bedoy\OneDrive\Documentos\UNAD\UNAD SEMESTRE 5\UNAD ESTRUCTURAS DE DATOS\Fase2JeiksonBedoya\Fase2JeiksonBedoya\Fase2JeiksonBedoya\obj\Debug\Fase2JeiksonBedoya.Properties.Resources.resources
+C:\Users\bedoy\OneDrive\Documentos\UNAD\UNAD SEMESTRE 5\UNAD ESTRUCTURAS DE DATOS\Fase2JeiksonBedoya\Fase2JeiksonBedoya\Fase2JeiksonBedoya\obj\Debug\Fase2JeiksonBedoya.csproj.GenerateResource.cache
+C:\Users\bedoy\OneDrive\Documentos\UNAD\UNAD SEMESTRE 5\UNAD ESTRUCTURAS DE DATOS\Fase2JeiksonBedoya\Fase2JeiksonBedoya\Fase2JeiksonBedoya\obj\Debug\Fase2JeiksonBedoya.csproj.CoreCompileInputs.cache
+C:\Users\bedoy\OneDrive\Documentos\UNAD\UNAD SEMESTRE 5\UNAD ESTRUCTURAS DE DATOS\Fase2JeiksonBedoya\Fase2JeiksonBedoya\Fase2JeiksonBedoya\obj\Debug\Fase2JeiksonBedoya.exe
+C:\Users\bedoy\OneDrive\Documentos\UNAD\UNAD SEMESTRE 5\UNAD ESTRUCTURAS DE DATOS\Fase2JeiksonBedoya\Fase2JeiksonBedoya\Fase2JeiksonBedoya\obj\Debug\Fase2JeiksonBedoya.pdb
